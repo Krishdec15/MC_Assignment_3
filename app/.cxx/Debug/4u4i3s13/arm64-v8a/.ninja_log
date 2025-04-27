@@ -1,0 +1,15 @@
+# ninja log v5
+0	152	7667419610764876	CMakeFiles/matrixcalculator.dir/matrix_calculator.cpp.o	17e35ff4e5fa9e00
+156	395	7667419613167790	C:/shitty ass college stuff/Assignments/MC/MatrixCalculator/app/build/intermediates/cxx/Debug/4u4i3s13/obj/arm64-v8a/libmatrixcalculator.so	64c75997ce0eaef2
+1	15	0	clean	7441644c2f030f0b
+0	13	0	clean	7441644c2f030f0b
+5	444	7667455107163812	CMakeFiles/matrixcalculator.dir/matrix_calculator.cpp.o	17e35ff4e5fa9e00
+446	716	7667455110044418	C:/shitty ass college stuff/Assignments/MC/MatrixCalculator/app/build/intermediates/cxx/Debug/4u4i3s13/obj/arm64-v8a/libmatrixcalculator.so	64c75997ce0eaef2
+1	19	0	clean	7441644c2f030f0b
+1	12	0	clean	7441644c2f030f0b
+0	16	0	clean	7441644c2f030f0b
+1	175	0	clean	7441644c2f030f0b
+1	12	0	clean	7441644c2f030f0b
+1	13	0	clean	7441644c2f030f0b
+3	164	7667534144875468	CMakeFiles/matrixcalculator.dir/matrix_calculator.cpp.o	17e35ff4e5fa9e00
+164	364	7667534146817712	C:/shitty ass college stuff/Assignments/MC/MatrixCalculator/app/build/intermediates/cxx/Debug/4u4i3s13/obj/arm64-v8a/libmatrixcalculator.so	64c75997ce0eaef2

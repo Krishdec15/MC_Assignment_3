@@ -1,0 +1,31 @@
+# ninja log v5
+2	10360	7667403411574370	CMakeFiles/matrixcalculator.dir/matrix_calculator.cpp.o	a35cbb04a06a433
+10550	13334	7667403439692407	C:/shitty ass college stuff/Assignments/MC/MatrixCalculator/app/build/intermediates/cxx/Debug/4u4i3s13/obj/x86_64/libmatrixcalculator.so	ffbf9a17953542c3
+4	135	7667417605982943	build.ninja	c8ad094f981266a8
+0	10	0	clean	7441644c2f030f0b
+33	335	7667417612111481	CMakeFiles/matrixcalculator.dir/matrix_calculator.cpp.o	57c1012d27fd8cd7
+336	584	7667417614582819	C:/shitty ass college stuff/Assignments/MC/MatrixCalculator/app/build/intermediates/cxx/Debug/4u4i3s13/obj/x86_64/libmatrixcalculator.so	ffbf9a17953542c3
+0	14	0	clean	7441644c2f030f0b
+1	18	0	clean	7441644c2f030f0b
+4	196	7667419693951147	CMakeFiles/matrixcalculator.dir/matrix_calculator.cpp.o	57c1012d27fd8cd7
+198	698	7667419699021108	C:/shitty ass college stuff/Assignments/MC/MatrixCalculator/app/build/intermediates/cxx/Debug/4u4i3s13/obj/x86_64/libmatrixcalculator.so	ffbf9a17953542c3
+0	17	0	clean	7441644c2f030f0b
+0	12	0	clean	7441644c2f030f0b
+3	156	7667455124445743	CMakeFiles/matrixcalculator.dir/matrix_calculator.cpp.o	57c1012d27fd8cd7
+157	411	7667455126930592	C:/shitty ass college stuff/Assignments/MC/MatrixCalculator/app/build/intermediates/cxx/Debug/4u4i3s13/obj/x86_64/libmatrixcalculator.so	ffbf9a17953542c3
+1	15	0	clean	7441644c2f030f0b
+6	520	7667459367468097	CMakeFiles/matrixcalculator.dir/matrix_calculator.cpp.o	57c1012d27fd8cd7
+521	765	7667459369990000	C:/shitty ass college stuff/Assignments/MC/MatrixCalculator/app/build/intermediates/cxx/Debug/4u4i3s13/obj/x86_64/libmatrixcalculator.so	ffbf9a17953542c3
+1	14	0	clean	7441644c2f030f0b
+140	2096	7667476091741156	CMakeFiles/matrixcalculator.dir/matrix_calculator.cpp.o	57c1012d27fd8cd7
+2097	6141	7667476128451720	C:/shitty ass college stuff/Assignments/MC/MatrixCalculator/app/build/intermediates/cxx/Debug/4u4i3s13/obj/x86_64/libmatrixcalculator.so	ffbf9a17953542c3
+0	10	0	clean	7441644c2f030f0b
+153	929	7667483339310991	CMakeFiles/matrixcalculator.dir/matrix_calculator.cpp.o	57c1012d27fd8cd7
+930	1454	7667483342997507	C:/shitty ass college stuff/Assignments/MC/MatrixCalculator/app/build/intermediates/cxx/Debug/4u4i3s13/obj/x86_64/libmatrixcalculator.so	ffbf9a17953542c3
+0	197	0	clean	7441644c2f030f0b
+4	614	7667513801719768	CMakeFiles/matrixcalculator.dir/matrix_calculator.cpp.o	57c1012d27fd8cd7
+615	1273	7667513808318285	C:/shitty ass college stuff/Assignments/MC/MatrixCalculator/app/build/intermediates/cxx/Debug/4u4i3s13/obj/x86_64/libmatrixcalculator.so	ffbf9a17953542c3
+0	12	0	clean	7441644c2f030f0b
+0	13	0	clean	7441644c2f030f0b
+2	137	7667534166615843	CMakeFiles/matrixcalculator.dir/matrix_calculator.cpp.o	57c1012d27fd8cd7
+138	394	7667534169161755	C:/shitty ass college stuff/Assignments/MC/MatrixCalculator/app/build/intermediates/cxx/Debug/4u4i3s13/obj/x86_64/libmatrixcalculator.so	ffbf9a17953542c3

@@ -1,0 +1,1 @@
+C:\shitty ass college stuff\Assignments\MC\MatrixCalculator\app\src\main\cpp\CMakeLists.txt

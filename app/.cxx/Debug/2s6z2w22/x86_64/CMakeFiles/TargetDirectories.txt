@@ -1,0 +1,3 @@
+D:/MatrixCalculator/MatrixCalculator/app/.cxx/Debug/2s6z2w22/x86_64/CMakeFiles/matrixcalculator.dir
+D:/MatrixCalculator/MatrixCalculator/app/.cxx/Debug/2s6z2w22/x86_64/CMakeFiles/edit_cache.dir
+D:/MatrixCalculator/MatrixCalculator/app/.cxx/Debug/2s6z2w22/x86_64/CMakeFiles/rebuild_cache.dir

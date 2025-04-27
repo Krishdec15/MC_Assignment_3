@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/MatrixCalculator/MatrixCalculator/app/.cxx/Debug/2s6z2w22/x86_64",
+  "command": "C:\\Users\\dell\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android24 --sysroot=C:/Users/dell/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmatrixcalculator_EXPORTS -ID:/MatrixCalculator/MatrixCalculator/app/src/main/cpp/eigen -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\matrixcalculator.dir\\matrix_calculator.cpp.o -c D:\\MatrixCalculator\\MatrixCalculator\\app\\src\\main\\cpp\\matrix_calculator.cpp",
+  "file": "D:\\MatrixCalculator\\MatrixCalculator\\app\\src\\main\\cpp\\matrix_calculator.cpp"
+}
+]
